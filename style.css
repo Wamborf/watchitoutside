@@ -43,7 +43,6 @@
 
   .bg-cover-home {
     background-image: url('images/header-image.jpg');
-    margin-top: 55px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: 40% -35%;
@@ -51,7 +50,6 @@
 
   .bg-cover-movies {
     background-image: url('images/header-image.jpg');
-    margin-top: 55px;
     background-attachment: fixed;
     background-repeat: no-repeat;
 
